@@ -2,6 +2,9 @@
 
 ### 🚀 **GitBuddy Bot – Features**
 
+<img width="944" alt="Screenshot 2025-05-14 at 2 22 24 PM" src="https://github.com/user-attachments/assets/76adf57d-74cf-46b0-8f08-47a9ce674525" />
+
+
 #### 🧑‍💻 1. **Maintainer Info**
 
 * Clearly marked maintainer and script purpose at the top (`# Maintainer: Vijay`).
